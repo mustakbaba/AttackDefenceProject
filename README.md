@@ -4,8 +4,8 @@ Unity version 2019.2.8f1
 
 
 İçerik;
--Basit bir arkadaş ekleme sistemi(isme göre).
--Responsive UI.
+-Basit bir arkadaş ekleme sistemi(isme göre). <br />
+-Responsive UI. <br />
 -Dinamik arkadaş seçme, silme ve ekleme.
 -Tıklanabilir, animasyonlu butonlar.
 -Dinamik level göstergesi.
